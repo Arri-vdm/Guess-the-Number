@@ -61,7 +61,9 @@ def guess():
         if turns != 0:
             print("Guess again...")
         elif turns == 0:
-            print(f"\nYou've run out of guesses, you lose.\n\n")
+            print(
+                f"\nYou've run out of guesses, you lose.\nThe number was {answer}!\n\n"
+            )
 
     while turns != 0:
         # Prints remaining turns
