@@ -13,7 +13,7 @@ print("\nWelcome to the Number Guessing Game!\n"
 answer = randint(1, 100)
 
 # --->>> Testing:
-print(f"Pssst, the correct answer is {answer}")
+# print(f"Pssst, the correct answer is {answer}")
 
 # Global Variables
 EASY_LEVEL_TURNS = 10
