@@ -6,7 +6,7 @@ logo = """
 
 _____________________________________________________________________
                                            
-                                       BY:       Armand van der Merwe
-                                       CONTACT:    arri.vdm@gmail.com
+BY:       Armand van der Merwe
+CONTACT:  arri.vdm@gmail.com
 _____________________________________________________________________
 """
